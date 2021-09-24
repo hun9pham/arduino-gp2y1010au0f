@@ -72,7 +72,7 @@ Some images of the operation of the project:
 
 Author - [PHAM NGUYEN QUOC HUNG](https://hun9pham.github.io) - hungpham99er@gmail.com
 
-Project Link: [Souce code](github.com/hun9pham/arduino-gp2y1010au0f)
+Project Link: [Souce code](https://github.com/hun9pham/arduino-gp2y1010au0f.git)
 
 ## References
 [Dust sensor datashet](https://pdf1.alldatasheet.com/datasheet-pdf/view/412700/SHARP/GP2Y1010AU0F.html)
