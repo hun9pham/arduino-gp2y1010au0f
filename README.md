@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+GP2Y101AU0F's library is build from the datasheet of dust sensor. Using Arduino Uno R3 to communicate with dust sensor, keypad 4x4 to adjust threshold, LCD 16x02 to display data from dust sensor.
 ### Overview
 Components used:
 * Arduino Uno R3<br>
