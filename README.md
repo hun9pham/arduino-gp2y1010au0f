@@ -52,15 +52,15 @@ Some images of the operation of the project:
 ### Project Structure
 
 ```
-├── README.md              			: Description of project
-├── images              			: Folder contains images of project
+├── README.md              	: Description of project
+├── images              	: Folder contains images of project
       ├── dust1.jpg
       ├── dust2.jpg
       ├── dust3.png
       ├── schematic.png
-├── GP2Y1010AU0F.cpp			:
-├── GP2Y1010AU0F.h				: Sensor library
-├── TKHTN.ino         : Run on Arduino IDE
+├── GP2Y1010AU0F.cpp		
+├── GP2Y1010AU0F.h		: Sensor library
+├── TKHTN.ino         		: Run on Arduino IDE
 
 ```
 
@@ -75,4 +75,4 @@ Author - [PHAM NGUYEN QUOC HUNG](https://hun9pham.github.io) - hungpham99er@gmai
 Project Link: [Souce code](https://github.com/hun9pham/chat-application-csharp-winform.git)
 
 ## References
-
+[Dust sensor datashet](https://pdf1.alldatasheet.com/datasheet-pdf/view/412700/SHARP/GP2Y1010AU0F.html)
